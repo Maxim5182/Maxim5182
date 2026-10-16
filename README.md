@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! Я Максим 👋
 
-<!--
-**Maxim5182/Maxim5182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мне 15 лет, и я активно учусь веб-разработке. Моя специализация — качественная верстка сайтов.
 
-Here are some ideas to get you started:
+### 🛠 Мои навыки:
+*   **HTML5:** семантическая верстка, формы, доступность.
+*   **CSS3:** Flexbox, CSS Grid, адаптивность (Mobile First), БЭМ.
+*   **Инструменты:** Chrome DevTools, Figma (чтение макетов), Git / GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Чем я занимаюсь сейчас:
+*   Изучаю JavaScript, чтобы добавлять интерактив на сайты.
+*   Собираю портфолио учебных проектов.
+*   Ищу первые небольшие заказы на верстку (правки существующих сайтов, простые лендинги).
+
+### 📜 Мои сертификаты:
+*   [Ссылка на репозиторий с сертификатами](ссылка_сюда) *(создадим на следующем шаге)*
+
+### 📫 Как со мной связаться:
+*   Telegram: @AvgustBoxing
+*   Email: maxim51822011@gmail.com
